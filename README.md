@@ -11,7 +11,7 @@
 #### 5. UBEC dan Buck Converter (sebagai penurun tegangan dari baterai)
 #### 6. Receiver (sebagai penerima sinyal remote control)
 #### 7. RF (menghubungkan remote control dengan receiver)
-#### 8. Microcontroller (sebagai penerjemah sinyal perintah dari receiver ke Servo dan ESC)
+#### 8. Microcontroller (sebagai penerjemah sinyal perintah dari receiver ke Servo)
 
 ## FERC Electrical Diagram
 ![Communication Diagram FERC-Page-3 drawio](https://github.com/user-attachments/assets/6ac19bf8-512a-40dd-9c6f-27b02458f5ce)
